@@ -1,1 +1,3 @@
-# JS_calculatro
+# JS_calculator
+
+Basic JS calculator
